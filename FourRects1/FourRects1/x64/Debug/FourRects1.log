@@ -1,0 +1,5 @@
+﻿  FourRects1.cpp
+C:\Users\kudra\source\repos\FourRects1\FourRects1\FourRects1.cpp(23,72): warning C4100: lpCmdLine: неиспользованный формальный параметр
+C:\Users\kudra\source\repos\FourRects1\FourRects1\FourRects1.cpp(23,51): warning C4100: hPrevInstance: неиспользованный формальный параметр
+C:\Users\kudra\source\repos\FourRects1\FourRects1\FourRects1.cpp(60,46): warning C4100: hdc: неиспользованный формальный параметр
+  FourRects1.vcxproj -> C:\Users\kudra\source\repos\FourRects1\x64\Debug\FourRects1.exe
